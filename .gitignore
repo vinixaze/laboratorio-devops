@@ -1,0 +1,18 @@
+# Credenciais e configurações locais
+.env
+.env.*
+*.pem
+*.key
+.aws/
+
+# Arquivos do sistema e editores
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.bak
